@@ -1,0 +1,23 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="福建",长乐综合
+http://play.clgdj.com/tv/live.m3u8
+#EXTINF:-1 group-title="福建",福州新闻
+http://live1.fzntv.cn/live/zohi_fztv1/playlist.m3u8
+#EXTINF:-1 group-title="福建",福州影视
+http://live1.fzntv.cn/live/zohi_fztv2/playlist.m3u8
+#EXTINF:-1 group-title="福建",福州生活
+http://live1.fzntv.cn/live/zohi_fztv3/playlist.m3u8
+#EXTINF:-1 group-title="福建",福建综合
+http://stream5.fjtv.net/zhpd/sd/live.m3u8
+#EXTINF:-1 group-title="福建",福建公共
+http://stream5.fjtv.net/ggpd/sd/live.m3u8
+#EXTINF:-1 group-title="福建",福建新闻
+http://stream5.fjtv.net/xwpd/sd/live.m3u8
+#EXTINF:-1 group-title="福建",福建电视剧
+http://stream5.fjtv.net/dsjpd/sd/live.m3u8
+#EXTINF:-1 group-title="福建",福建旅游
+http://stream6.fjtv.net/dspd/sd/live.m3u8
+#EXTINF:-1 group-title="福建",福建经视
+http://stream6.fjtv.net/jjpd/sd/live.m3u8
+#EXTINF:-1 group-title="福建",福建体育
+http://stream6.fjtv.net/typd/sd/live.m3u8
